@@ -58,7 +58,8 @@ A cut-in event is detected based on the calculated metrics and predefined thresh
 ### Visualization
 
 The code includes functionality to visualize the detection results, including bounding boxes, distance information, and warnings on the video frames.
-![image](https://github.com/user-attachments/assets/f851fed9-7619-4625-96ae-6b77057ca2ed)
+![image](https://github.com/user-attachments/assets/2663d89e-59f3-46ba-86fc-68d32f576d0c)
+
 
 
 ## License
