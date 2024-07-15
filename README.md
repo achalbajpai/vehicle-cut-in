@@ -1,6 +1,4 @@
-Certainly. I'll create a README.md for the project you linked, adapting the structure you provided but only including information that's relevant to the actual project. Here's a draft:
 
-```markdown
 ## Intel Vehicle Cut-In Detection
 
 Solution developed as a submission for Intel Unnati Industrial Training Program 2024.
@@ -64,6 +62,4 @@ The code includes functionality to visualize the detection results, including bo
 ## License
 
 This project is open-source. Please refer to the repository for any specific license information.
-```
 
-This README.md provides an overview of the project structure and functionality based on the code available in the GitHub repository you linked. You may want to review and adjust any details to ensure they accurately reflect your project's specifics.
